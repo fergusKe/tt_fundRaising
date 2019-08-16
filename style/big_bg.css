@@ -1,0 +1,13 @@
+@charset"UTF-8";
+
+.big_bg .page-container{min-height: 860px; display:inline-block;}
+.big_bg1{ background: url(../img/big_bg1.jpg); background-size: cover; }
+.big_bg2{ background: url(../img/big_bg2.jpg);background-size: cover;}
+.big_bg3{ background: url(../img/big_bg3.jpg); background-size: cover;}
+.big_bg4{ background: url(../img/big_bg4.jpg); background-size: cover;}
+.big_bg5{ background: url(../img/big_bg5.jpg); background-size: cover;}
+.big_bg6{ background: url(../img/big_bg6.jpg); background-size: cover;}
+.big_bg7{ background: url(../img/big_bg7.jpg); background-size: cover;}
+
+.big_bg .area_title h2{color:#000; }
+
